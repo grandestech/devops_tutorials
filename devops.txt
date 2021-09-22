@@ -1,0 +1,4 @@
+-Git
+-Ansible
+-Docker
+-Jenkins
